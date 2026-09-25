@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NPCDetector.unity
     guid: 912bef7e190d7a74691bcf8613166e7e
+  - enabled: 1
+    path: Assets/Scenes/Praktikum4/P4A_AStarGrid.unity
+    guid: 8b6d3ae2ad9f9c64ba51004150a96b5e
+  - enabled: 1
+    path: Assets/Scenes/Praktikum4/P4B_NavMeshChase.unity
+    guid: 49644af1906b0c34e99229237a816459
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
